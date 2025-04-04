@@ -1,6 +1,6 @@
 简体中文 | [English](./README_en.md)
 
-# 尝试用千帆大模型（embedding + generative）
+个人版本，尝试用千帆大模型（embedding + generative）
 
 # 生成式智能体（Generative Agents）深度汉化版
 
